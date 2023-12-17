@@ -1,0 +1,7 @@
+#!/bin/sh
+
+echo "############ RUNNING PRECOMMIT FOR IAM SERVICE ################"
+
+npm run precommit
+
+echo "############ FINISHED PRECOMMIT FOR IAM SERVICE ###############"
